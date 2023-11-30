@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:grocery_list/models/grocery_item.dart';
+import '../models/grocery_item.dart';
 
 class GroceryListItem extends StatelessWidget {
   const GroceryListItem({super.key, required this.groceryItem, required this.removeItem});

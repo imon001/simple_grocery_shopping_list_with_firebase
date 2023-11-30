@@ -2,13 +2,14 @@
 
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:grocery_list/screens/new_grocery_item_screen.dart';
-import '../widgets/grocery_list_item.dart';
-import '/models/grocery_item.dart';
 import 'package:http/http.dart' as http;
 import 'package:loading_indicator/loading_indicator.dart';
 
+import '../widgets/grocery_list_item.dart';
+import '/models/grocery_item.dart';
+
 import '../data/categories.dart';
+import 'new_grocery_item_screen.dart';
 
 class GroceryListScreen extends StatefulWidget {
   const GroceryListScreen({super.key});
