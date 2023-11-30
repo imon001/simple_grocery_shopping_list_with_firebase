@@ -1,6 +1,20 @@
-# grocery_list
+# Grocery List
 
-A new Flutter project.
+### A simple flutter app with **firebase realtime database** that allows you to create a grocery list.
+
+## Features
+
+- Simple and lightweight. 
+- Add and remove item.
+- Store data online.
+
+
+## Screenshots
+|<img  src=""/>|<img src=""/>|<img src=""/>|
+| ------------- | ------------- |------------- |
+
+
+**Note:** App requires internet.
 
 ## Getting Started
 
