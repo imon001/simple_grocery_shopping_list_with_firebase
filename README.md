@@ -9,9 +9,13 @@
 - Store data online.
 
 
+
 ## Screenshots
-|<img  src=""/>|<img src=""/>|<img src=""/>|
-| ------------- | ------------- |------------- |
+|<img  src="https://github.com/imon001/simple_grocery_shopping_list_with_firebase/assets/41481933/db334a56-89d6-46d7-a30d-53345eb37af6"/>|<img src="https://github.com/imon001/simple_grocery_shopping_list_with_firebase/assets/41481933/54698537-2cc8-49d4-bc3f-9687e70514e6"/>|
+| ------------- | ------------- |
+
+
+
 
 
 **Note:** App requires internet.
